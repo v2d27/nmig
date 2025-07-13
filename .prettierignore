@@ -1,0 +1,17 @@
+node_modules
+dist
+logs_directory
+logo.png
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+.eslintignore
+.gitignore
+.idea
+tsconfig.tsbuildinfo
+package-lock.json
+README.md
+LICENSE.md
